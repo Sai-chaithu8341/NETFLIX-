@@ -1,54 +1,105 @@
-# Netflix_Home_Page_Using_HTML_And_CSS
+# Netflix-Clone
+This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
 
-This repository contains the code for building a Netflix-inspired home page using HTML and CSS. The project aims to recreate the visual design and layout of the Netflix home page, providing a starting point for creating similar interfaces or learning web development techniques.
+## 📸 Screenshots
+![image](https://user-images.githubusercontent.com/79099734/156505537-8e28ee14-dd20-4299-9eea-984d7068c7fd.png)
+![image](https://user-images.githubusercontent.com/79099734/156505592-42d7e884-e72c-41b8-8efe-856d1aeaf4b1.png)
+![image](https://user-images.githubusercontent.com/79099734/156505619-e344eb2f-9298-4f76-8d59-d0f6a4f108dc.png)
+![image](https://user-images.githubusercontent.com/79099734/156505658-675daf0b-fe7d-4490-8d1c-ab030527ecf5.png)
+![image](https://user-images.githubusercontent.com/79099734/156505698-04ab760c-9ef1-4da2-b921-4c3e65ef0789.png)
+![image](https://user-images.githubusercontent.com/79099734/156505771-6929b1f2-1aed-4da4-bb7a-092404589241.png)
+![image](https://user-images.githubusercontent.com/79099734/156505809-309a6824-5d85-4cc0-9ffd-95d66fb2cf5e.png)
 
-## Preview
 
-https://github.com/Sai-chaithu8341/NETFLIX-.git
+## Watch the Live [Demo](https://susmita-dey.github.io/Netflix-Clone/)
 
-## Features
 
-- Responsive design: The web page adapts to different screen sizes, ensuring a consistent user experience on desktop and mobile devices.
-- Interactive components: The page includes interactive elements such as buttons, dropdown menus, and hover effects.
-- Dynamic content: Placeholder content is used to mimic Netflix's movie and TV show recommendations.
-- CSS styling: The stylesheets provide a sleek and modern look, resembling the Netflix branding.
+## [Watch the video tutorial here](https://youtu.be/wpH0VR0hYTU)
 
-## Getting Started
 
-To get started with this project, follow these steps:
+# 💥 How to Contribute
 
-1. Clone the repository:
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Susmita-Dey/Netflix-Clone/pulls)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+- Take a look at the existing [Issues](https://github.com/Susmita-Dey/Netflix-Clone-With-HTML-CSS-JS/issues) or [create a new issue](https://github.com/Susmita-Dey/Netflix-Clone/issues/new/choose)!
+- [Fork the Repo](https://github.com/Susmita-Dey/Netflix-Clone/fork), create a branch for any issue that you are working on and commit your work.
+- Create a **[Pull Request](https://github.com/Susmita-Dey/Netflix-Clone/compare)** (_PR_), which will be promptly reviewed and given suggestions for improvements by the community.
+- Add screenshots or screen captures to your Pull Request to help us understand the effects of the changes that are included in your commits.
+
+## ⭐ HOW TO MAKE A PULL REQUEST:
+
+**1.** Start by making a fork the [**Netflix-Clone**](https://github.com/Susmita-Dey/Netflix-Clone) repository. Click on the <a href="https://github.com/Susmita-Dey/Netflix-Clone/fork"><img src="https://i.imgur.com/G4z1kEe.png" height="21" width="21"></a> symbol at the top right corner.
+
+**2.** Clone your new fork of the repository:
 
 ```bash
-git clone https://github.com/Sai-chaithu8341/NETFLIX-.git
+git clone https://github.com/<your-github-username>/Netflix-Clone
 ```
 
-2. Open the project in your preferred code editor.
+**3.** Set upstream command:
 
-3. Launch the `index.html` file in a web browser to view the Netflix home page.
+```bash
+git remote add upstream https://github.com/Susmita-Dey/Netflix-Clone.git
+```
 
-4. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
+**4.** Navigate to the new project directory:
 
-## Contributing
+```bash
+cd Netflix-Clone
+```
 
-Contributions to this project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
+**5.** Create a new branch:
 
-## License
+```bash
+git checkout -b YourBranchName
+```
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use the code for personal or commercial purposes.
+**6.** Sync your fork or local repository with the origin repository:
 
-## Acknowledgements
+- In your forked repository click on "Fetch upstream"
+- Click "Fetch and merge".
 
-- The design and inspiration for this project come from the official Netflix website.
-- Special thanks to the open-source community for providing helpful resources and tutorials on web development.
+### Alternatively, Git CLI way to Sync forked repository with origin repository:
 
-## Contact
+```bash
+git fetch upstream
+```
 
-If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
+```bash
+git merge upstream/main
+```
 
-- Your Name : SAI CHAITHANYA
-- Email: saichaithanyan@gmail.com
+### [Github Docs](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-on-github) for Syncing
 
----
+**7.** Make your changes to the source code.
 
-Enjoy exploring the code and creating your own Netflix-like home pages!
+**8.** Stage your changes and commit:
+
+```bash
+git add .
+```
+
+```bash
+git commit -m "<your_commit_message>"
+```
+
+**9.** Push your local commits to the remote repository:
+
+```bash
+git push origin YourBranchName
+```
+
+**10.** Create a [Pull Request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request)!
+
+**11.** **Congratulations!** You've made your first contribution! 🙌🏼
+
+
+
+## All the best! 🥇
+
+<p align="center">
+
+[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Susmita-Dey/Netflix-Clone)
+
+</p>
